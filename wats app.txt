@@ -5,3 +5,4 @@ author :  ajay mathews
 2.chat  screen code 
 3.last seen code
 4.attachments  (image,audio,videos) code x	
+5.hide the last seen
