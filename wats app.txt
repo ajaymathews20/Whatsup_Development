@@ -1,0 +1,7 @@
+This is wats app code :
+
+author :  ajay mathews 
+1.profile page code
+2.chat  screen code 
+3.last seen code
+4.attachments  (image,audio,videos) code x	
