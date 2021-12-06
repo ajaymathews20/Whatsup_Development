@@ -4,7 +4,7 @@ author :  ajay mathews
 1.profile page code
 2.chat  screen code 
 3.last seen code
-4.attachments  (image,audio,videos) code x	
+4.attachments  (image,audio,videos,documents) code x	
 5.hide the last seen
 6.adding the audio call feature 
 7.adding the video call feature
